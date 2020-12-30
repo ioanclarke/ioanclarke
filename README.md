@@ -1,9 +1,9 @@
-**Howdy** 🤙🏻
+**Howdy** 🤙🏻  
 
-I'm Ioan.
+I'm Ioan 🐉  
 I'm studying a Master's degree in Computing at Cardiff University 🖥  
-I love Python and I'm currently learning Javascript and HTML/CSS ⚔️
-
+I love Python and I'm currently learning Javascript and HTML/CSS ⚔️  
+You can check out my site here -->[🍐🍊🍋🍌🍉🍇🍓](https://www.ioanclarke.tech/)<--
 
 <!--
 **ioanclarke/ioanclarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
