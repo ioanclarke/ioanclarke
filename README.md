@@ -1,7 +1,7 @@
 **Howdy** 🤙🏻
 
 I'm Ioan.
-I'm studying a Master's degree in Computing at Cardiff University 🖥
+I'm studying a Master's degree in Computing at Cardiff University 🖥  
 I love Python and I'm currently learning Javascript and HTML/CSS ⚔️
 
 
