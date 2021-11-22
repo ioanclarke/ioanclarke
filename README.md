@@ -1,8 +1,8 @@
 **Howdy** 🤙🏻  
 
 I'm Ioan 🐉  
-I'm studying a Master's degree in Computing at Cardiff University 🖥  
-I love Python and I'm currently learning Java, Javascript and HTML/CSS ⚔️  
+I'm a Graduate Software Developer at Auto Trader 🖥  
+I love Python and but I'm mostly using Java at the moment ⚔️  
 You can check out my site here ➡️[🍐🍊🍋🍌🍉🍇🍓](https://ioanclarke.github.io)⬅️
 
 <!--
