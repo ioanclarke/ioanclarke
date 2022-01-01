@@ -2,7 +2,7 @@
 
 I'm Ioan 🐉  
 I'm a Graduate Software Developer at Auto Trader 🖥  
-I love Python and I'm learning Rust at the moment - I'm mostly using Java in work at the moment ⚔️  
+I love Python and I'm learning Rust at the moment - I use Java at work ⚔️  
 You can check out my site here ➡️[🍐🍊🍋🍌🍉🍇🍓](https://ioanclarke.github.io)⬅️
 
 <!--
