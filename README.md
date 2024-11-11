@@ -1,8 +1,7 @@
 **Howdy** 🤙🏻  
 
 I'm Ioan 🐉  
-I'm a Professional Software Developer at Auto Trader 🖥  
-I love Python (although I now lean towards more strongly-typed languages) and I'm learning a little bit of Rust and Haskell - I use Java at work ⚔️  
+I'm a Senior Software Developer at Auto Trader 🖥  
 You can check out my site here ➡️[🍐🍊🍋🍌🍉🍇🍓](https://ioanclarke.github.io)⬅️
 
 <!--
